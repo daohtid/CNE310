@@ -1,7 +1,4 @@
-# This is a sample Python script.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and setting
 write # function how_many_months( start, rate, saving, target) where:
 #start - the staring balance in your bank account(float)
 #
